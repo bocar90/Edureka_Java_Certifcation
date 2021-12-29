@@ -7,11 +7,11 @@ This is a basic Java based web_application that allows users to performs simple 
 
 The following **required** functionality is completed:
 
-- [ ] User can login. (4pts)
-- [ ] User can create an account. (4pts)
-- [ ] User can deposit or withdraw. (2pts)
-- [ ] User can display their statement. (2pts)
-- [ ] User can authorize credit card amount. (2pts)
+- [ ] User can login.
+- [ ] User can create an account.
+- [ ] User can deposit or withdraw.
+- [ ] User can display their statement.
+- [ ] User can authorize credit card amount.
 
 ## Video Walkthrough
 
