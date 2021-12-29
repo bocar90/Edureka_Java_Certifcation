@@ -1,7 +1,7 @@
 # Edureka_Java_Certifcation
 
 # Final Project 
-This is a basic Java based web_application that allows users to performs simple Banking operations such login, create account.
+This is a basic Java based web_application that allows users to performs simple Banking operations.
 
 ## User Stories
 
